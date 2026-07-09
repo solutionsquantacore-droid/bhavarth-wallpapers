@@ -48,5 +48,115 @@
     "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/ganesh.mp3",
     "lyrics": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
     "lyricsEnglish": "Vakratunda Mahakaya Suryakoti Samaprabha, Nirvighnam Kuru Me Deva Sarva-Karyeshu Sarvada."
+  },
+  {
+    "id": "shiva_gayatri",
+    "name": "Shiva Gayatri Mantra",
+    "nameHindi": "शिव गायत्री मंत्र",
+    "description": "Mantra of ultimate wisdom and Shiva's grace.",
+    "descriptionHindi": "कल्याण और आत्मज्ञान प्रदाता भगवान शिव का गायत्री मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/shiva_gayatri.mp3",
+    "lyrics": "ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि। तन्नो रुद्रः प्रचोदयात्॥",
+    "lyricsEnglish": "Om Tatpurushaya Vidmahe Mahadevaya Dheemahi, Tanno Rudrah Prachodayat."
+  },
+  {
+    "id": "hanuman_mantra",
+    "name": "Hanuman Maha Mantra",
+    "nameHindi": "हनुमान महामंत्र",
+    "description": "Mantra for courage, protection, and physical strength.",
+    "descriptionHindi": "भय मुक्ति, संकट निवारण और बल-बुद्धि प्रदाता हनुमान मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/hanuman_mantra.mp3",
+    "lyrics": "ॐ हनुमते नमः",
+    "lyricsEnglish": "Om Hanumate Namah"
+  },
+  {
+    "id": "laxmi_mantra",
+    "name": "Maha Lakshmi Mantra",
+    "nameHindi": "महालक्ष्मी मंत्र",
+    "description": "Mantra of wealth, prosperity, and abundance.",
+    "descriptionHindi": "सुख, समृद्धि और धन-धान्य प्रदाता माँ लक्ष्मी का महामंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/laxmi_mantra.mp3",
+    "lyrics": "ॐ श्रीं ह्रीं क्लीं महालक्ष्म्यै नमः",
+    "lyricsEnglish": "Om Shreem Hreem Kleem Maha Lakshmyai Namah"
+  },
+  {
+    "id": "saraswati_mantra",
+    "name": "Saraswati Mantra",
+    "nameHindi": "सरस्वती मंत्र",
+    "description": "Mantra for knowledge, wisdom, and creative arts.",
+    "descriptionHindi": "बुद्धि, विद्या और कला की देवी माँ सरस्वती का वंदना मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/saraswati_mantra.mp3",
+    "lyrics": "ॐ ऐं सरस्वत्यै नमः",
+    "lyricsEnglish": "Om Aing Saraswatyai Namah"
+  },
+  {
+    "id": "durga_mantra",
+    "name": "Durga Mantra",
+    "nameHindi": "दुर्गा मंत्र",
+    "description": "Mantra for protection and inner power.",
+    "descriptionHindi": "कल्याण, शक्ति और सुरक्षा प्रदाता माँ दुर्गा का आदि मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/durga_mantra.mp3",
+    "lyrics": "सर्वमंगल मांगल्ये शिवे सर्वार्थ साधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+    "lyricsEnglish": "Sarva Mangala Mangalye Shive Sarvartha Sadhike, Sharanye Tryambake Gauri Narayani Namostute."
+  },
+  {
+    "id": "shanti_mantra",
+    "name": "Shanti Mantra",
+    "nameHindi": "शांति मंत्र",
+    "description": "Universal prayer for cosmic peace and harmony.",
+    "descriptionHindi": "समस्त ब्रह्मांड में शांति और कल्याण की प्रार्थना का महामंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/shanti_mantra.mp3",
+    "lyrics": "ॐ असतो मा सद्गमय। तमसो मा ज्योतिर्गमय। मृत्योर्मा अमृतं गमय। ॐ शान्तिः शान्तिः शान्तिः॥",
+    "lyricsEnglish": "Om Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya, Mrityor Ma Amritam Gamaya. Om Shanti Shanti Shanti."
+  },
+  {
+    "id": "surya_mantra",
+    "name": "Surya Mantra",
+    "nameHindi": "सूर्य मंत्र",
+    "description": "Mantra for physical vitality and mental clarity.",
+    "descriptionHindi": "तेज, ऊर्जा और उत्तम स्वास्थ्य प्रदाता सूर्य देव का मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/surya_mantra.mp3",
+    "lyrics": "ॐ घृणि सूर्याय नमः",
+    "lyricsEnglish": "Om Ghrini Suryaya Namah"
+  },
+  {
+    "id": "krishna_vasudev",
+    "name": "Krishna Vasudev Mantra",
+    "nameHindi": "कृष्ण वासुदेव मंत्र",
+    "description": "Mantra for destroying all sufferings and invoking peace.",
+    "descriptionHindi": "कष्टों और दुखों के निवारण के लिए भगवान श्रीकृष्ण का परम मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/krishna_vasudev.mp3",
+    "lyrics": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने। प्रणतः क्लेशनाशाय गोविंदाय नमो नमः॥",
+    "lyricsEnglish": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah."
+  },
+  {
+    "id": "ram_ram_mala",
+    "name": "Ram Ram Mala (108)",
+    "nameHindi": "राम राम माला (108)",
+    "description": "Chanting of Lord Ram's name 108 times for peace and focus.",
+    "descriptionHindi": "मन की शांति और एकाग्रता के लिए भगवान राम के नाम का 108 बार जाप।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/ram_ram_mala.mp3",
+    "lyrics": "राम राम",
+    "lyricsEnglish": "Ram Ram"
+  },
+  {
+    "id": "radhe_radhe_mala",
+    "name": "Radhe Radhe Mala (108)",
+    "nameHindi": "राधे राधे माला (108)",
+    "description": "Devotional chanting of Radhe Radhe 108 times for divine love.",
+    "descriptionHindi": "प्रेम और भक्ति रस की प्राप्ति के लिए श्री राधा रानी के नाम का 108 बार जाप।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/radhe_radhe_mala.mp3",
+    "lyrics": "राधे राधे",
+    "lyricsEnglish": "Radhe Radhe"
+  },
+  {
+    "id": "shree_shivay_namastubhyam",
+    "name": "Shree Shivay Namastubhyam",
+    "nameHindi": "श्री शिवाय नमस्तुभ्यं",
+    "description": "Powerful Shiva mantra for healing and clearing obstacles.",
+    "descriptionHindi": "कष्ट निवारण और मनोरथ सिद्धि के लिए भगवान शिव का परम कल्याणकारी मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/shree_shivay_namastubhyam.mp3",
+    "lyrics": "श्री शिवाय नमस्तुभ्यं",
+    "lyricsEnglish": "Shree Shivay Namastubhyam"
   }
 ]
