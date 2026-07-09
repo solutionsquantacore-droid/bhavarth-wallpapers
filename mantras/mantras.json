@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gayatri",
+    "name": "Gayatri Mantra",
+    "nameHindi": "गायत्री मंत्र",
+    "description": "Mantra of spiritual illumination and wisdom.",
+    "descriptionHindi": "आध्यात्मिक ज्ञान और बुद्धि का कल्याणकारी मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/gayatri.mp3",
+    "lyrics": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं। भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+    "lyricsEnglish": "Om Bhur Bhuva Swaha, Tat Savitur Varenyam, Bhargo Devasya Dheemahi, Dhiyo Yo Nah Prachodayat."
+  },
+  {
+    "id": "mahamrityunjaya",
+    "name": "Mahamrityunjaya Mantra",
+    "nameHindi": "महामृत्युंजय मंत्र",
+    "description": "Shiva's great death-conquering mantra.",
+    "descriptionHindi": "भगवान शिव का मोक्ष और आरोग्य प्रदाता मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/mahamrityunjaya.mp3",
+    "lyrics": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात्॥",
+    "lyricsEnglish": "Om Tryambakam Yajamahe Sugandhim Pushti-Vardhanam, Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat."
+  },
+  {
+    "id": "om_namah_shivaya",
+    "name": "Om Namah Shivaya",
+    "nameHindi": "ॐ नमः शिवाय",
+    "description": "The five-syllable healing mantra for inner peace.",
+    "descriptionHindi": "मन की शांति और शुद्धि का पंचाक्षरी मंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/om_namah_shivaya.mp3",
+    "lyrics": "ॐ नमः शिवाय",
+    "lyricsEnglish": "Om Namah Shivaya"
+  },
+  {
+    "id": "hare_krishna",
+    "name": "Hare Krishna Mahamantra",
+    "nameHindi": "हरे कृष्ण महामंत्र",
+    "description": "The great chanting of devotion and liberation.",
+    "descriptionHindi": "भक्ति, शांति और मोक्ष प्राप्ति का महामंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/hare_krishna.mp3",
+    "lyrics": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+    "lyricsEnglish": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare, Hare Rama Hare Rama Rama Rama Hare Hare."
+  },
+  {
+    "id": "ganesh_mantra",
+    "name": "Ganesh Maha Mantra",
+    "nameHindi": "गणेश महामंत्र",
+    "description": "Mantra to remove all obstacles in life.",
+    "descriptionHindi": "जीवन के सभी विघ्न-बाधाओं को दूर करने का महामंत्र।",
+    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/ganesh.mp3",
+    "lyrics": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+    "lyricsEnglish": "Vakratunda Mahakaya Suryakoti Samaprabha, Nirvighnam Kuru Me Deva Sarva-Karyeshu Sarvada."
+  }
+]
