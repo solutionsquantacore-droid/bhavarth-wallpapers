@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "nameHindi": "शिव",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/bhavarth-wallpapers/main/shiva/cover.webp"
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman Ji",
+      "nameHindi": "हनुमान जी",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/bhavarth-wallpapers/main/hanuman/cover.webp"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "shiva_1",
+      "categoryId": "shiva",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/bhavarth-wallpapers/main/shiva/shiva_1.webp"
+    },
+    {
+      "id": "shiva_2",
+      "categoryId": "shiva",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/bhavarth-wallpapers/main/shiva/shiva_2.webp"
+    },
+    {
+      "id": "hanuman_1",
+      "categoryId": "hanuman",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/bhavarth-wallpapers/main/hanuman/hanuman_1.webp"
+    }
+  ]
+}
