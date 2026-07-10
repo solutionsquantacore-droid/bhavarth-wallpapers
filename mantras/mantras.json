@@ -100,26 +100,6 @@
     "lyricsEnglish": "Sarva Mangala Mangalye Shive Sarvartha Sadhike, Sharanye Tryambake Gauri Narayani Namostute."
   },
   {
-    "id": "shanti_mantra",
-    "name": "Shanti Mantra",
-    "nameHindi": "शांति मंत्र",
-    "description": "Universal prayer for cosmic peace and harmony.",
-    "descriptionHindi": "समस्त ब्रह्मांड में शांति और कल्याण की प्रार्थना का महामंत्र।",
-    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/shanti_mantra.mp3",
-    "lyrics": "ॐ असतो मा सद्गमय। तमसो मा ज्योतिर्गमय। मृत्योर्मा अमृतं गमय। ॐ शान्तिः शान्तिः शान्तिः॥",
-    "lyricsEnglish": "Om Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya, Mrityor Ma Amritam Gamaya. Om Shanti Shanti Shanti."
-  },
-  {
-    "id": "surya_mantra",
-    "name": "Surya Mantra",
-    "nameHindi": "सूर्य मंत्र",
-    "description": "Mantra for physical vitality and mental clarity.",
-    "descriptionHindi": "तेज, ऊर्जा और उत्तम स्वास्थ्य प्रदाता सूर्य देव का मंत्र।",
-    "audioUrl": "https://raw.githubusercontent.com/solutionsquantacore-droid/bhavarth-wallpapers/main/mantras/surya_mantra.mp3",
-    "lyrics": "ॐ घृणि सूर्याय नमः",
-    "lyricsEnglish": "Om Ghrini Suryaya Namah"
-  },
-  {
     "id": "krishna_vasudev",
     "name": "Krishna Vasudev Mantra",
     "nameHindi": "कृष्ण वासुदेव मंत्र",
