@@ -1,0 +1,66 @@
+{
+      "id": "shiva",
+      "name": "Shiva",
+      "nameHindi": "शिव"
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman Ji",
+      "nameHindi": "हनुमान जी"
+    },
+    {
+      "id": "durga",
+      "name": "Durga Mata",
+      "nameHindi": "दुर्गा माता"
+    },
+    {
+      "id": "kedarnath",
+      "name": "Kedarnath Temple",
+      "nameHindi": "केदारनाथ मंदिर"
+    },
+    {
+      "id": "mahakaleshwar",
+      "name": "Mahakaleshwar Jyotirlinga",
+      "nameHindi": "महाकालेश्वर ज्योतिर्लिंग"
+    },
+    {
+      "id": "omkareshwar",
+      "name": "Omkareshwar Jyotirlinga",
+      "nameHindi": "ओंकारेश्वर ज्योतिर्लिंग"
+    },
+    {
+      "id": "vaishnodevi",
+      "name": "Vaishno Devi",
+      "nameHindi": "वैष्णो देवी"
+    },
+    {
+      "id": "salasar_balaji",
+      "name": "Salasar Balaji",
+      "nameHindi": "सालासर बालाजी",
+    },
+    {
+      "id": "famous_temples",
+      "name": "Famous Temples",
+      "nameHindi": "प्रसिद्ध मंदिर"
+    },
+    {
+      "id": "radha_krishna",
+      "name": "Radha Krishna",
+      "nameHindi": "राधा कृष्ण जी"
+    },
+    {
+      "id": "khatu_shyam",
+      "name": "Khatu Shyam Ji",
+      "nameHindi": "खाटू श्याम जी",
+      "coverPath": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ancient_Baba_Shyam_temple_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8_%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%BE_%E0%A4%B6_%28Ancient_Baba_Khatu_Shyam_Temple._%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE_%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%BE_%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%B0%29.jpg"
+    },
+    {
+      "id": "laxmi_mata",
+      "name": "Laxmi Mata",
+      "nameHindi": "लक्ष्मी माता"
+    },
+    {
+      "id": "neem_karoli_baba",
+      "name": "Neem Karoli Baba",
+      "nameHindi": "नीम करौली बाबा"
+    }
