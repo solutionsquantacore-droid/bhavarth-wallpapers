@@ -2,67 +2,49 @@
   {
     "id": "shiva",
     "name": "Shiva",
-    "nameHindi": "शिव"
+    "nameHindi": "शिव",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/shiva.webp"
   },
   {
     "id": "hanuman",
     "name": "Hanuman Ji",
-    "nameHindi": "हनुमान जी"
+    "nameHindi": "हनुमान जी",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/hanuman_ji.webp"
   },
   {
     "id": "durga",
     "name": "Durga Mata",
-    "nameHindi": "दुर्गा माता"
-  },
-  {
-    "id": "kedarnath",
-    "name": "Kedarnath Temple",
-    "nameHindi": "केदारनाथ मंदिर"
-  },
-  {
-    "id": "mahakaleshwar",
-    "name": "Mahakaleshwar Jyotirlinga",
-    "nameHindi": "महाकालेश्वर ज्योतिर्लिंग"
-  },
-  {
-    "id": "omkareshwar",
-    "name": "Omkareshwar Jyotirlinga",
-    "nameHindi": "ओंकारेश्वर ज्योतिर्लिंग"
-  },
-  {
-    "id": "vaishnodevi",
-    "name": "Vaishno Devi",
-    "nameHindi": "वैष्णो देवी"
-  },
-  {
-    "id": "salasar_balaji",
-    "name": "Salasar Balaji",
-    "nameHindi": "सालासर बालाजी",
-    
+    "nameHindi": "दुर्गा माता",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/durga_mata.webp"
   },
   {
     "id": "famous_temples",
     "name": "Famous Temples",
-    "nameHindi": "प्रसिद्ध मंदिर"
+    "nameHindi": "प्रसिद्ध मंदिर",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/famous_temples.webp"
   },
   {
     "id": "radha_krishna",
     "name": "Radha Krishna",
-    "nameHindi": "राधा कृष्ण जी"
+    "nameHindi": "राधा कृष्ण जी",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/krishna_ji.webp"
   },
   {
     "id": "khatu_shyam",
     "name": "Khatu Shyam Ji",
-    "nameHindi": "खाटू श्याम जी"
+    "nameHindi": "खाटू श्याम जी",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/khatu_shyam_ji.webp"
   },
   {
     "id": "laxmi_mata",
     "name": "Laxmi Mata",
-    "nameHindi": "लक्ष्मी माता"
+    "nameHindi": "लक्ष्मी माता",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/laxmi_mata.webp"
   },
   {
-    "id": "neem_karoli_baba",
-    "name": "Neem Karoli Baba",
-    "nameHindi": "नीम करौली बाबा"
+    "id": "ram_ji",
+    "name": "Shree Ram",
+    "nameHindi": "भगवान श्रीराम",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/ram_ji.webp"
   }
 ]
