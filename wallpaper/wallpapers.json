@@ -3,48 +3,56 @@
     "id": "shiva",
     "name": "Shiva",
     "nameHindi": "शिव",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/shiva.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/shiva.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "hanuman",
     "name": "Hanuman Ji",
     "nameHindi": "हनुमान जी",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/hanuman_ji.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/hanuman_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "durga",
     "name": "Durga Mata",
     "nameHindi": "दुर्गा माता",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/durga_mata.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/durga_mata.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "famous_temples",
     "name": "Famous Temples",
     "nameHindi": "प्रसिद्ध मंदिर",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/famous_temples.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/famous_temples.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "radha_krishna",
     "name": "Radha Krishna",
     "nameHindi": "राधा कृष्ण जी",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/krishna_ji.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/krishna_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "khatu_shyam",
     "name": "Khatu Shyam Ji",
     "nameHindi": "खाटू श्याम जी",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/khatu_shyam_ji.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/khatu_shyam_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "laxmi_mata",
     "name": "Laxmi Mata",
     "nameHindi": "लक्ष्मी माता",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/laxmi_mata.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/laxmi_mata.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   },
   {
     "id": "ram_ji",
     "name": "Shree Ram",
     "nameHindi": "भगवान श्रीराम",
-    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/ram_ji.webp"
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/ram_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/shiva/shiv_ji.json"
   }
 ]
