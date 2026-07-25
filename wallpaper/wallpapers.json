@@ -61,5 +61,12 @@
     "nameHindi": "भगवान श्रीराम",
     "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/ram_ji.webp",
     "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/ram_ji/shree_ram.json"
+  },
+  {
+    "id": "khatu_shyam_ji",
+    "name": "Khatu Shyam",
+    "nameHindi": "खाटू श्याम जी",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/khatu_shyam_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/khatu_shyam/shyam.json"
   }
 ]
