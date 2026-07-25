@@ -42,6 +42,13 @@
     "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/krishna/shree_krishna.json"
   },
   {
+    "id": "shree_vishunu_ji",
+    "name": "Shree Vishnu",
+    "nameHindi": "श्री विष्णु जी",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/vishunu_ji.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/vishu/shri_vishnu_ji.json"
+  },
+  {
     "id": "laxmi_mata",
     "name": "Laxmi Mata",
     "nameHindi": "लक्ष्मी माता",
