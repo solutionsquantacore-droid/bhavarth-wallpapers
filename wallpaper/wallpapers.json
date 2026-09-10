@@ -68,5 +68,12 @@
     "nameHindi": "खाटू श्याम जी",
     "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/khatu_shyam_ji.webp",
     "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/khatu_shyam/shyam.json"
+  },
+  {
+    "id": "festivals",
+    "name": "Festival",
+    "nameHindi": "त्योहार",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/festival_banner.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/festivals/festival_images.json"
   }
 ]
