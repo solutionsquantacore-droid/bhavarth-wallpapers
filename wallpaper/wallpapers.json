@@ -75,5 +75,12 @@
     "nameHindi": "त्योहार",
     "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/festival_banner.webp",
     "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/festivals/festival_images.json"
+  },
+  {
+    "id": "special",
+    "name": "Special",
+    "nameHindi": "विशेष",
+    "image_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/category/banner.webp",
+    "content_url": "https://github.com/solutionsquantacore-droid/bhavarth-wallpapers/blob/main/wallpaper/special/special_wallpaper.json"
   }
 ]
